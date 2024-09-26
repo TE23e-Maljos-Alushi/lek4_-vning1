@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/showcase.jpg);
+}
+h1 {
+    background-color: black;
+    color: red ;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+}
+.artikel{
+    background-color: lightgray;
+    border: 4px solid rgba(0, 0, 0, 0.744); 
+}
+h2 {
+    text-align: center;
+}
+.sidofoto{
+    justify-content: center;
+    width: 100%;
+    display:flex;
+}
